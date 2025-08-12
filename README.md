@@ -47,3 +47,7 @@ Integrate real-time fraud detection with streaming data.
 Enhance feature engineering with deep learning techniques.
 
 Implement automated alerts and dashboard for monitoring.
+
+
+The link for the data set
+https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0
